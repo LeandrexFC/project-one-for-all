@@ -1,13 +1,15 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h1>One For All</h1>
+The One For All Project involves normalizing and populating unnormalized spreadsheets into a database. The main objective of this project is to apply the concepts learned and execute queries to retrieve the required information. It serves as a consolidation and review of the key concepts covered thus far.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<h2>Project Overview</h2>
+The One For All Projetc aims to achieve the following: <br>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+- Normalize unnormalized spreadsheets into a structured database.<br>
+- Populate the database with the data from the spreadsheets.<br>
+- Apply learned concepts of normalization to ensure data integrity.<br>
+- Execute queries to retrieve the required information from the database.<br>
+- Consolidate and review the key concepts covered in the course.<br>
+
+<h3>Contributors</h3>
+I created the challenges directory and all the files inside it.<br>
+Trybe - Provided the remaining files and resources for the project.
